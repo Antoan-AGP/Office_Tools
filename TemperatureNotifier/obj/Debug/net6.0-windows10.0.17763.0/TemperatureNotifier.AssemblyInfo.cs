@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TemperatureNotifier")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a447694336bccec675c5f0955f15f64287b1e3e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("TemperatureNotifier")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TemperatureNotifier")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

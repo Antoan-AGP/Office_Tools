@@ -23,3 +23,4 @@ C:\GitHub_Local\Office_Tools\TemperatureNotifier\obj\Debug\net6.0-windows10.0.17
 C:\GitHub_Local\Office_Tools\TemperatureNotifier\obj\Debug\net6.0-windows10.0.17763.0\TemperatureNotifier.pdb
 C:\GitHub_Local\Office_Tools\TemperatureNotifier\obj\Debug\net6.0-windows10.0.17763.0\TemperatureNotifier.genruntimeconfig.cache
 C:\GitHub_Local\Office_Tools\TemperatureNotifier\obj\Debug\net6.0-windows10.0.17763.0\ref\TemperatureNotifier.dll
+C:\GitHub_Local\Office_Tools\TemperatureNotifier\obj\Debug\net6.0-windows10.0.17763.0\TemperatureNotifier.sourcelink.json
