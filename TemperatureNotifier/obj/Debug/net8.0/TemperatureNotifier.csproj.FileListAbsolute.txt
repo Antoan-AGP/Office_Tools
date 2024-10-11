@@ -1,5 +1,0 @@
-C:\GitHub_Local\Office_Tools\TemperatureNotifier\obj\Debug\net8.0\TemperatureNotifier.csproj.AssemblyReference.cache
-C:\GitHub_Local\Office_Tools\TemperatureNotifier\obj\Debug\net8.0\TemperatureNotifier.GeneratedMSBuildEditorConfig.editorconfig
-C:\GitHub_Local\Office_Tools\TemperatureNotifier\obj\Debug\net8.0\TemperatureNotifier.AssemblyInfoInputs.cache
-C:\GitHub_Local\Office_Tools\TemperatureNotifier\obj\Debug\net8.0\TemperatureNotifier.AssemblyInfo.cs
-C:\GitHub_Local\Office_Tools\TemperatureNotifier\obj\Debug\net8.0\TemperatureNotifier.csproj.CoreCompileInputs.cache
